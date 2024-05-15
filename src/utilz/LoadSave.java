@@ -19,11 +19,11 @@ public class LoadSave {
 	public static final String SOUND_BUTTONS = "sound_button.png";
 	public static final String URM_BUTTONS = "urm_buttons.png";
 	public static final String VOLUME_BUTTONS = "volume_buttons.png";
-	public static final String MENU_BACKGROUND_IMG = "background_menu.png";
-	public static final String PLAYING_BG_IMG = "playing_bg_img.jpg";
+	public static final String MENU_BACKGROUND_IMG = "va.png";
+	public static final String PLAYING_BG_IMG = "va.png";
 	public static final String BIG_CLOUDS = "big_clouds.png";
 	public static final String SMALL_CLOUDS = "small_clouds.png";
-	public static final String PIGGY_SPRITE = "Untitled.png";
+	public static final String PIGGY_SPRITE = "piggy_sprites.png";
 	public static final String STATUS_BAR = "health_power_bar.png";
 	public static final String COMPLETED_IMG = "completed_sprite.png";
 	public static final String POTION_ATLAS = "potions_sprites.png";
