@@ -3,4 +3,4 @@ If you have any errors, check out if your folder have enough files:
 - Choose the Source path
 - If it has only 1 file "src", click the Add Folder on the right hand side, then click on "res"
 
-  Hope you do well
+Hope you do well
