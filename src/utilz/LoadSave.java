@@ -12,6 +12,7 @@ import javax.imageio.ImageIO;
 public class LoadSave {
 
 	public static final String PLAYER_ATLAS = "player_sprites.png";
+	public static final String PIGGY_SPRITE = "piggy_sprites.png";
 	public static final String LEVEL_ATLAS = "outside_sprites.png";
 	public static final String MENU_BUTTONS = "button_atlas.png";
 	public static final String MENU_BACKGROUND = "menu_background.png";
@@ -21,9 +22,6 @@ public class LoadSave {
 	public static final String VOLUME_BUTTONS = "volume_buttons.png";
 	public static final String MENU_BACKGROUND_IMG = "va.png";
 	public static final String PLAYING_BG_IMG = "va.png";
-	public static final String BIG_CLOUDS = "big_clouds.png";
-	public static final String SMALL_CLOUDS = "small_clouds.png";
-	public static final String PIGGY_SPRITE = "piggy_sprites.png";
 	public static final String STATUS_BAR = "health_power_bar.png";
 	public static final String COMPLETED_IMG = "completed_sprite.png";
 	public static final String POTION_ATLAS = "potions_sprites.png";
