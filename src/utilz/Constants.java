@@ -94,7 +94,7 @@ public class Constants {
 				case HIT:
 					return 2;
 				case DEAD:
-					return 4;
+					return 5;
 				}
 			}
 

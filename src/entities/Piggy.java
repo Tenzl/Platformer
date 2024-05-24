@@ -21,8 +21,8 @@ public class Piggy extends Enemy {
 	}
 
 	private void initAttackBox() {
-		attackBox = new Rectangle2D.Float(x, y, (int) (82 * Game.SCALE), (int) (19 * Game.SCALE));
-		attackBoxOffsetX = (int) (Game.SCALE * 30);
+		attackBox = new Rectangle2D.Float(x, y, (int) ( 80 * Game.SCALE), (int) (19 * Game.SCALE));
+		attackBoxOffsetX = (int) (Game.SCALE * 23);
 	}
 
 	public void update(int[][] lvlData, Player player) {
