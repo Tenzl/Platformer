@@ -34,9 +34,7 @@ public class Playing extends State implements Statemethods {
 	private int rightBorder = (int) (0.8 * Game.GAME_WIDTH);
 	private int maxLvlOffsetX;
 
-	private BufferedImage backgroundImg, bigCloud, smallCloud;
-	private int[] smallCloudsPos;
-	private Random rnd = new Random();
+	private BufferedImage backgroundImg;
 
 	private boolean gameOver;
 	private boolean lvlCompleted;
